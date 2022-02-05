@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactProject_popularPlaces/static/css/main.1de605c2.css",
+    "main.js": "/reactProject_popularPlaces/static/js/main.855de98d.js",
+    "index.html": "/reactProject_popularPlaces/index.html",
+    "main.1de605c2.css.map": "/reactProject_popularPlaces/static/css/main.1de605c2.css.map",
+    "main.855de98d.js.map": "/reactProject_popularPlaces/static/js/main.855de98d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de605c2.css",
+    "static/js/main.855de98d.js"
+  ]
+}
